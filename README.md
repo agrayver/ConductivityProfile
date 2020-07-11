@@ -9,7 +9,7 @@ This repo provides radial electrical conductivity profiles that were obtained th
 
 This image was created by executing the `plot_models.py` script.
 
-![alt text](models.png)
+<img src="models.png" width="50%" height="40%">
 
 ## Inversion progress
 
