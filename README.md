@@ -11,10 +11,10 @@ Please reference this publication if you use the provided models in your work.
 
 This image was created by executing the `plot_models.py` script.
 
-<img src="models.png" width="50%" height="40%">
+<img src="models.png" width="40%" height="35%">
 
 ## Inversion progress
 
 The animation below shows best model at each iteration of the optimization for the case of the joint inversion. Starting (gray -- constant profile of 0.2 S/m) and final (red) models are denoted by dashed lines.
 
-![alt text](inversion.gif)
+<img src="inversion.gif" width="50%" height="50%">
