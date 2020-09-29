@@ -7,6 +7,8 @@ This repo provides radial electrical conductivity profiles that were obtained th
 
 Please reference this publication if you use the provided models in your work.
 
+[![DOI](https://zenodo.org/badge/278647927.svg)](https://zenodo.org/badge/latestdoi/278647927)
+
 ## Radial conductivity profiles
 
 This image was created by executing the `plot_models.py` script.
